@@ -1,0 +1,11 @@
+{
+  "name": "tiny-compiler",
+  "version": "0.0.2",
+  "private": true,
+  "description": "Learning about compilers.",
+  "main": "src/index.js",
+  "scripts": {
+    "compile": "node src/index.js",
+    "test": "node test/test.js"
+  }
+}
